@@ -1,0 +1,5 @@
+data/
+logs
+consensus/validator_keys
+consensus/validator_keys_0
+consensus/mnemonic.yaml
